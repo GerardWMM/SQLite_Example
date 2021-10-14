@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_form.xml" value="0.19021739130434784" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_form_producto.xml" value="0.25" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_listado.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_login.xml" value="0.17708333333333334" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/gerar/AndroidStudioProjects/SQLite/app/src/main/res/layout/item_producto.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
